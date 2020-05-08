@@ -12,6 +12,7 @@ Your app should include the following:
 **Tip**
 
 - Keep your react app simple (as close to the products app as possible)
+- You can always add features later! Get it to work first.
 
 ### Advanced Bonus: 
 
