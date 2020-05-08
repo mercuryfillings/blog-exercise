@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/KDzdCHAkkeRJ8AbgWH/giphy.gif" width="50%"/>
+</p>
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
 
 # Blog App
