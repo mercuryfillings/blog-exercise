@@ -9,7 +9,7 @@ Your app should include the following:
 - CRUD on the backend (an api where you can create, read, update, and delete blog posts)
 - CRUD on the frontend (a react frontend that has axios calls that can create, read, update, and delete blog posts)
 
-**Bonus**: 
+### Bonus: 
 
 Include the concept of a user:
 - A post belongs to a user
