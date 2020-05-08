@@ -14,6 +14,9 @@ Your app should include the following:
 - Keep your react app simple (as close to the products app as possible)
 - You can always add features later! Get it to work first.
 
+**Deploy**
+> include your deployment url in the pull request description
+
 ### Advanced Bonus: 
 
 Include the concept of a user:
