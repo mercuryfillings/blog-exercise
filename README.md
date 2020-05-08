@@ -58,7 +58,8 @@ In your seed file you will have to:
 2. Create posts and associate them with users
 3. Create the association between users and posts
 
-How would your express controllers look like? (it depends on what data your react component needs)
+How would your express controllers look like?
+- Hint: it depends on what data your react component needs
 
 **Tips**
 - https://mongoosejs.com/docs/queries.html
