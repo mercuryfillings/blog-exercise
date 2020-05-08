@@ -9,11 +9,18 @@ Your app should include the following:
 - CRUD on the backend (an api where you can create, read, update, and delete blog posts)
 - CRUD on the frontend (a react frontend that has axios calls that can create, read, update, and delete blog posts)
 
-### Bonus: 
+**Tip**
+
+- Keep your react app simple (as close to the products app as possible)
+
+### Advanced Bonus: 
 
 Include the concept of a user:
 - A post belongs to a user
 - A user can have many posts
+
+Sketch the React app first
+- Build low-fi screens for how you plan to build this Blog App with the concept of users.
 
 <details><summary>Here is an example schema.</summary>
 <p>
@@ -50,6 +57,8 @@ In your seed file you will have to:
 1. Create users
 2. Create posts and associate them with users
 3. Create the association between users and posts
+
+How would your express controllers look like? (it depends on what data your react component needs)
 
 **Tips**
 - https://mongoosejs.com/docs/queries.html
